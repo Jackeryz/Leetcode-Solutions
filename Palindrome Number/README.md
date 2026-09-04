@@ -2,8 +2,8 @@
 
 - Difficulty: Easy
 - Language: python3
-- Solved On: 8/6/2026
-- Archived At: 8:17:33 PM
+- Solved On: 9/4/2026
+- Archived At: 2:55:18 PM
 - LeetCode: https://leetcode.com/problems/palindrome-number/
 
 ## Solution
