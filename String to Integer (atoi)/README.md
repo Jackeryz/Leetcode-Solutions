@@ -2,8 +2,8 @@
 
 - Difficulty: Medium
 - Language: python3
-- Solved On: 8/6/2026
-- Archived At: 8:16:02 PM
+- Solved On: 9/5/2026
+- Archived At: 4:10:13 PM
 - LeetCode: https://leetcode.com/problems/string-to-integer-atoi/
 
 ## Solution
