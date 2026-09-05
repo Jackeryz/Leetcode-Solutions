@@ -3,7 +3,7 @@
 - Difficulty: Medium
 - Language: python3
 - Solved On: 9/5/2026
-- Archived At: 4:27:12 PM
+- Archived At: 5:20:55 PM
 - LeetCode: https://leetcode.com/problems/string-to-integer-atoi/
 
 ## Solution
